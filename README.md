@@ -50,8 +50,7 @@ Review        15 mins         ▓░░░░░░░░░░░░░░░�
 
 <h1 align="center">Hi 👋🏼, It's Omar</h1>
 <h3 align="center">A passionate Web Developer & Designer</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="right" alt="Coding" width="350" src="/hello.gif">
+<img align="right" alt="Coding" width="300" src="/mepixy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogd97&label=Profile%20views&color=0e75b6&style=flat" alt="ogd97" /> </p>
