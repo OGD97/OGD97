@@ -17,8 +17,6 @@ I am **Omar Dayya** working as **Web Developer & Designer**. Skilled in **HTML/C
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-<!--END_SECTION:waka
-**For freelance work? *FAST ACCESS* [📩](mailto:omardaya1997@gmail.com)** -->
 
 <!--END_SECTION:waka
 
@@ -33,57 +31,28 @@ Review        15 mins         ▓░░░░░░░░░░░░░░░�
 ```
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/omardayya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my to-do list stats:**
- TODO-IST:START
-🌸  Completed 3 tasks today           
-✅  Completed 3 projects by the end of the year           
-⏳  Longest streak is
-TODO-IST:END 
-
-
 
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OGD97&show_icons=true&theme=gotham" alt="OGD97" />
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OGD97&layout=compact)
 
 
 -->
 
-<!--
-**OGD97/OGD97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
 
 
-
- 
-<!--
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io) -->
 
 
 <h1 align="center">Hi 👋🏼, It's Omar</h1>
 <h3 align="center">A passionate Web Developer & Designer</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="/hello.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogd97&label=Profile%20views&color=0e75b6&style=flat" alt="ogd97" /> </p>
 
