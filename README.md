@@ -50,8 +50,8 @@ Review        15 mins         ▓░░░░░░░░░░░░░░░�
 
 <h1 align="center">Hi 👋🏼, It's Omar</h1>
 <h3 align="center">A passionate Web Developer & Designer</h3>
-<img align="right" alt="Coding" width="300" src="/mepixy.gif">
 
+<img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJzMG14a3IyeWw0cnY2dGk3OGxybzlreDZ2dnJib3FpdHU3a2hqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogd97&label=Profile%20views&color=0e75b6&style=flat" alt="ogd97" /> </p>
 
