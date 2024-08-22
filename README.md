@@ -60,7 +60,7 @@ Review        15 mins         ▓░░░░░░░░░░░░░░░�
 
 - 🌱 I’m currently learning **React & Typescript**
 
-- 👨‍💻 All of my projects are available at [ogd97.github.io/website](ogd97.github.io/website)
+- 👨‍💻 All of my projects are available at [ogd97.github.io/website](https://ogd97.github.io/website/)
 
 - 💬 Ask me about **collaborating and/or freelancing**
 
