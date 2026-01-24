@@ -11,7 +11,7 @@ Clean, scalable, and user-focused web & mobile applications.
   <a href="mailto:omardaya1997@gmail.com">Email</a>
 </p>
 
----
+<!---
 
 <p align="center">
   <img
@@ -21,7 +21,7 @@ Clean, scalable, and user-focused web & mobile applications.
   />
 </p>
 
----
+--->
 
 ## Profile
 
