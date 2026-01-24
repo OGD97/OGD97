@@ -56,11 +56,11 @@ Review        15 mins         ▓░░░░░░░░░░░░░░░�
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogd97&label=Profile%20views&color=0e75b6&style=flat" alt="ogd97" /> </p>
 
 
-- 🔭 I’m currently working on **Food App**
+- 🔭 I’m currently working on **Mobile & Web App**
 
 - 🌱 I’m currently learning **React & Typescript**
 
-- 👨‍💻 All of my projects are available at [ogd97.github.io/website](https://ogd97.github.io/website/)
+- 👨‍💻 All of my projects are available at [www.omardayya.com](www.omardayya.com)
 
 - 💬 Ask me about **collaborating and/or freelancing**
 
